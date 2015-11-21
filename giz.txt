@@ -1,0 +1,357 @@
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: GreenList
+! Last modified: 21 Nov 2015 13:20 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://
+! Licence: https://
+!
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (@gmail.com).
+!
+!-----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
+www.moneymakergroup.com##[id="side_col"]
+www.moneymakergroup.com##DIV[id="banner_content"]
+www.moneymakergroup.com##CENTER
+www.moneymakergroup.com##DIV[id="bottom_bar"]
+www.moneymakergroup.com##DIV[id="banner"]
+www.moneymakergroup.com##DIV[class="borderwrap"][style="margin-bottom:6px;"]
+www.forexfactory.com##DIV[class="graph_table"]
+www.forexfactory.com##TD[id="overview_8987_graph_ncreturn"][class="graphContainer"]
+www.forexfactory.com##TD[id="overview_8987_graph_ncreturn"][class="graphContainer"]
+www.forexfactory.com##TD[id="overview_8987_graph_return"][class="graphContainer"]
+www.forexfactory.com##TD[id="overview_8987_graph_profit"][class="graphContainer"]
+www.forexfactory.com##TD[id="overview_8987_graph_profit"][class="graphContainer"]
+www.forexfactory.com##TD[id="overview_8987_graph_equitybalance"][class="graphContainer"]
+www.forexfactory.com##TD[class="alt2 system_tabs"]
+@@||www.cooperativeachievementplan.com/$document
+@@||mytrafficvalue.com/$document
+www.forex-tsd.com##DIV[class="blockrow"]
+www.forex-tsd.com##DIV[id="rightColumn_n"]
+express.com.pk##EMBED[name="test1"]
+@@||sports.ptv.com.pk/$document
+@@|http://forums.focalprice.com/showtopic-7277.aspx|$document
+@@|http://www.ovguide.com/gateway.php?$document
+www.worldfree4u.com##S
+www.worldfree4u.com##DIV[id="header"]
+www.worldfree4u.com##DIV[id="sidebar_outer"][class="right"]
+www.worldfree4u.com##CENTER
+www.worldfree4u.com##A[href="http://worldfree4u.com/category/hd-wallpapers/"]
+www.worldfree4u.com##A[href="http://worldfree4u.com/help-page/"]
+www.worldfree4u.com##A[href="http://watchfreetvonline4u.blogspot.com/2010/12/channel-list-43.html"]
+www.worldfree4u.com##A[href="http://watchfreetvonline4u.blogspot.com/2010/12/channel-list-43.html"]
+www.worldfree4u.com##UL[id="sharebar"]
+moviepark.in##DIV[id="spu-bg"]
+moviepark.in##DIV[id="spu-main"]
+@@||uptobox.com/$document
+@@||uptobox.com/$document
+@@||www.moneygram.com/$document
+@@||www.moneygram.com/$document
+@@||www.mastiandfunz.com/$document
+@@||www.mastiandfunz.com/$document
+www.fullmovie4u.co##IMG[class="aligncenter size-full wp-image-4496"]
+www.fullmovie4u.co##IMG[class=" wp-image-7684 alignnone"]
+www.fullmovie4u.co##IMG[class=" wp-image-7683 alignnone"]
+www.fullmovie4u.co##IMG[class="aligncenter size-full wp-image-4797"]
+@@||www.streamupload.org/$document
+@@||www.streamupload.org/$document
+@@||www.fullmoviefreedown.com/$document
+@@||karachi.bolee.com/$document
+@@|http://forums.watchuseek.com/f21/citizen-automatic-21-jewels-watch-info-tips-much-appreciated-820126.html|$document
+@@|http://forums.watchuseek.com/f21/citizen-automatic-21-jewels-watch-info-tips-much-appreciated-820126.html|$document
+@@|http://share.snacktools.com/F9C56FD9E8C/bdxc87oo|$document
+@@||lahore.bolee.com/$document
+@@||lahore.bolee.com/$document
+@@||www.sumrando.com/$document
+@@|http://www.imovietube.com/watch/g-i-joe-retaliation.html|$document
+@@|http://nflsoup.com/|$document
+@@||fin6.com/$document
+@@||www.myhyipblog.com/$document
+@@||hotwallpaper2013.com/$document
+@@||onlinewallpapersstore.blogspot.com/$document
+adcumulation.com##DIV[id="modalbox"]
+adcumulation.com##DIV[id="modalmask"]
+www.cyclerpassive.com##DIV[class="slideshow"]
+
+@@|http://www.iwebtool.com/internet_speed_test|$document
+@@|http://adspayexpress.com/members/index.php?$document
+@@|http://adspayexpress.com/members/index.php?$document
+adcumulation.com##DIV[id="header"]
+www.superautocycler.com##IMG[src="http://www.superautocycler.com/blank.gif"]
+www.click-dot-ad.com##DIV[class="home-top-container"]
+adspayclub.com##DIV[id="modalmask"]
+adspayclub.com##DIV[id="modalbox"]
+@@||hitleap.com/$document
+@@||www.hdwallpapersview.com/$document
+@@||www.hdwallpapersview.com/$document
+@@||www.hdwallpapersview.com/$document
+www.argentglobalnetwork.com##DIV[id="wrapper-top"]
+www.argentglobalnetwork.com##DIV[class="modal-backdrop  in"]
+www.argentglobalnetwork.com##DIV[id="myModal"][class="modal hide in"]
+
+@@||www.bestfunpic.com/$document
+@@|http://www.ejazba.com/tarkeen_watan_gallery/index.php|$document
+www.fzmovies.net##DIV[class="logo2"]
+www.fzmovies.net##DIV[class="topbox"]
+www.fzmovies.net##DIV[class="adblock_top"]
+www.fzmovies.net##DIV[class="footer"]
+www.fzmovies.net##CENTER
+
+www.fzmovies.net##DIV[class="fb-comments fb_iframe_widget"]
+www.fzmovies.net##IFRAME[src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2Ffzmovies&width&layout=button_count&action=like&show_faces=true&share=false&height=21&appId=165678463640812"]
+www.adrevox.com##A[href="tools.php"]
+www.adrevox.com##A[href="orders.php"]
+@@||em1x-281.lhr.messaging.nokia.com/$document
+nolovelust.com##DIV[class="social-bookmark"]
+www.dualadcycles.com##DIV[id="header"]
+www.dualadcycles.com##DIV[id="left-bar"][bgcolor="#000000"]
+
+
+
+
+
+
+
+
+
+
+
+
+www.my-opi.com##table[width="90%"][bordercolor="#FFFFFF"][border="0"][style="border-collapse: collapse"]
+www.my-opi.com##table[width="100%"][bordercolor="#000000"][height="61"][border="0"]
+www.my-opi.com##td[width="100%"][bordercolor="#FFFFFF"][bgcolor="#000000"][height="1"]
+www.my-opi.com##td[width="100%"][bordercolor="#FFFFFF"][bgcolor="#CCFFCC"][height="25"]
+www.my-opi.com##table[width="100%"][bordercolor="#000000"][bgcolor="#CCFFCC"][border="0"][style="border-collapse: collapse"]
+www.my-opi.com##.MyOPI_background.jpg
+
+
+www.passiveadssources.com##IMG[src="/images/header.jpg"]
+www.passiveadssources.com##IMG[src="/images/logo.jpg"]
+www.passiveadssources.com##DIV[class="header-banner"]
+www.passiveadssources.com##IMG[src="https://www.passiveadssources.com/images/logo.jpg"]
+www.domaintools.com##IMG[class="img-responsive"]
+www.soprofit.com##DIV[class="navbar navbar-inverse navbar-fixed-top"]
+
+all-hyips.info##TD[class="ah14"]
+@@||adbonuz.com/$document
+theteamworkproject.org##A[class="logo"]
+theteamworkproject.org##DIV[id="ads"]
+theteamworkproject.org##DIV[class="box"]
+www.robsglobalwealth.com##DIV[id="apr11-overlay"][class="liknomodal-overlay"]
+www.robsglobalwealth.com##DIV[id="apr11-container"][class="liknomodal-container"]
+www.ad-valanche.com##IMG[class="img-rounded img-responsive center-block"]
+ebanking.meezanbank.com##DIV[id="disabledDiv"][class="disabledDiv"]
+www.free-ebooks.net##DIV[class="white"]
+www.robsglobalwealth.com##IFRAME[class="goog-te-menu-frame skiptranslate"]
+@@||paidverts.com/$document
+www.down1oads.com##DIV[class="general-popup-overlay"]
+www.onelinead.com##DIV[class="banner-main"]
+www.onelinead.com##DIV[class="banner-main bottombannersh"]
+www.onelinead.com##DIV[class="textad-bg textadcoockie"]
+www.revetrix.com##DIV[id="wrapper"][style="margin:12px 0px;"]
+www.revetrix.com##DIV[id="container"][style="border-top:5px solid #3E1529;"]
+www.revetrix.com##DIV[style="margin: 15px 0px 0px;"][align="center"]
+
+
+height:290px; background:url(http://www.revshareadvertising.com/templates/default/images/bg_slider.jpg);
+
+
+www.revshareadvertising.com##DIV[class="container_full"][style="height:290px; background:url(http://www.revshareadvertising.com/templates/default/images/bg_slider.jpg);"]
+
+
+www.longlivesharing.com##DIV[class="header-banenr"]
+www.longlivesharing.com##DIV[class="banner-728-90"][style="float:left;"]
+www.longlivesharing.com##DIV[id="footer-bg"]
+www.longlivesharing.com##DIV[class="banner-bot-bg"]
+www.longlivesharing.com##CENTER
+www.longlivesharing.com##DIV[class="textad_main"]
+www.longlivesharing.com##DIV[class="text-add-top"]
+www.longlivesharing.com##DIV[class="banner-125-125"]
+
+
+www.adsharenet.com##DIV[class="header-banenr"]
+www.adsharenet.com##DIV[class="banner-728-90"][style="float:left;"]
+www.adsharenet.com##DIV[id="footer-bg"]
+www.adsharenet.com##DIV[class="banner-bot-bg"]
+www.adsharenet.com##CENTER
+www.adsharenet.com##DIV[class="textad_main"]
+www.adsharenet.com##DIV[class="text-add-top"]
+www.adsharenet.com##DIV[class="banner-125-125"]
+
+www.digadz.com##DIV[class="b125"]
+www.digadz.com##DIV[class="col-lg-8 col-md-8 topbanner"]
+www.digadz.com##DIV[class="wrap-foot"]
+www.digadz.com##DIV[class="news"]
+
+www.buxshare.net##TABLE[bordercolor="#003366"][width="850"][height="1"][background="bg.jpg"]
+www.buxshare.net##TD[bgcolor="#003366"][width="100%"][height="183"]
+www.adbubbler.com##TD[width="150"][valign="top"][bgcolor="#E9FFD2"][style="border: #DADADA 1px solid;"][class="ads_125"]
+www.adbubbler.com##DIV[style=" background:url(http://www.adbubbler.com/templates/default/images/footban.png) repeat-x #FFF ; width: 100%"]
+www.adbubbler.com##DIV[id="footer"]
+www.adbubbler.com##DIV[id="header"]
+
+
+cycles247.com##DIV[class="topbg"]
+cycles247.com##DIV[class="headerbg"]
+
+cycles247.com##DIV[class="whitebg"]
+
+cycles247.com##DIV[class="textaddbg"]
+cycles247.com##DIV[class="whitebg2"]
+www.thischristmascash.com##IMG[src="images/TCCShowCase3.PNG"]
+www.thischristmascash.com##IMG[src="http://www.ultimatemoneylist.com/images/UMLProc.jpg"]
+www.thischristmascash.com##TD[colspan="3"][class="XSP_INFO_BAR"]
+
+@@|http://www.adsharenet.com/member/viewad.php|$document
+
+
+thebestonlinesalarysystem.com##TD[height="760"][align="center"][valign="top"][bgcolor="#fff"]
+thebestonlinesalarysystem.com##TD[height="100"][valign="top"][bgcolor="#fff"]
+
+unioncycler.com##DIV[id="banner"]
+unioncycler.com##DIV[id="footer"]
+unioncycler.com##DIV[id="footer_ads"]
+unioncycler.com##DIV[id="top_nav"]
+
+ultimatead.club##IMG[src="images/header.png"]
+ultimatead.club##IMG[src="images/footer.png"]
+ultimatead.club##DIV[class="zoom"]
+
+www.ultimatead.club##IMG[src="images/header.png"]
+www.ultimatead.club##IMG[src="images/footer.png"]
+www.ultimatead.club##DIV[class="zoom"]
+
+www.ads4wealth.com##FOOTER[style="position:fixed;bottom:0px;height:80px;width:100%;background:rgba(165, 82, 255, 0.21);"]
+exchangecurrencyzone.com##CENTER
+exchangecurrencyzone.com##UL[class="floatcontainer"]
+exchangecurrencyzone.com##DIV[id="footerMain"]
+www.powerlinecycler.com##A[href="http://www.powerlinecycler.com/themes/common/showtestimonial.php"]
+www.powerlinecycler.com##A[href="http://www.powerlinecycler.com/member/membernews.php"]
+
+bringthebaconhome.com##TABLE[id="Table_01"][width="1101"][border="0"][cellpadding="0"][cellspacing="0"]
+bringthebaconhome.com##IMG[src="http://bringthebaconhome.com/app/templates/default/images/bringthebaconhome_01.png"]
+bringthebaconhome.com##IMG[src="http://bringthebaconhome.com/app/templates/default/images/bringthebaconhome_17.png"]
+bringthebaconhome.com##HEADER
+bringthebaconhome.com##footer
+www.adzrich.com##div[id="bluebg"][class="bottombannersh"]
+www.adzrich.com##div[class="footerbg"]
+www.adzrich.com##div[class="textadmain"]
+www.adzrich.com##div[id="memberhader"]
+www.adzrich.com##div[class="textcenter"]
+www.adzrich.com##div[class="bannermain"]
+prosharextreme.com##center
+@@|http://www.prosharextreme.com/login.php|$document
+www.massivewealthcycler.com##div[class="headerbgbg"]
+www.massivewealthcycler.com##div[class="greybg"]
+www.massivewealthcycler.com##div[class="footerbg"]
+www.infinity8gold.com##IMG[src="images/new/header.jpg"]
+www.infinity8gold.com##div[class="footer"]
+
+
+www.proshareextreme.com##DIV[class="header-banner"]
+www.proshareextreme.com##DIV[class="banner-728-90"][style="float:left;"]
+www.proshareextreme.com##DIV[id="footer-bg"]
+www.proshareextreme.com##DIV[class="banner-bot-bg"]
+www.proshareextreme.com##CENTER
+www.proshareextreme.com##DIV[class="textad_main"]
+www.proshareextreme.com##DIV[class="text-add-top"]
+www.proshareextreme.com##DIV[class="banner-125-125"]
+www.advertzer.com##DIV[class="parallax-banner fullwidth-element"]
+
+www.adforcycle.com##IMG[src="http://www.adforcycle.com/themes/AdForCycle/images/header.jpg"]
+proshareextreme.com##DIV[id="simplemodal-container"][class="simplemodal-container"]
+proshareextreme.com##DIV[id="simplemodal-overlay"][class="simplemodal-overlay"]
+www.proshareextreme.com##IFRAME[id="f1"]
+www.proshareextreme.com##IFRAME[id="f1"]
+www.adzrich.net##IMG[id="banner_top"][name="banner_top"]
+www.megacycler.club##IMG[src="images/header.png"]
+www.megacycler.club##IMG[src="images/footer.png"]
+www.megacycler.club##IMG[src="images/footer.png"]
+
+clickcycleshare.com##IMG[src="images/header.jpg"]
+clickcycleshare.com##DIV[class="bannerbg"]
+
+www.worldadzpays.com##DIV[class="header-banner"]
+www.worldadzpays.com##DIV[class="banner-728-90"][style="float:left;"]
+www.worldadzpays.com##DIV[id="footer-bg"]
+www.worldadzpays.com##DIV[class="banner-bot-bg"]
+www.worldadzpays.com##CENTER
+www.worldadzpays.com##DIV[class="textad_main"]
+www.worldadzpays.com##DIV[class="text-add-top"]
+www.worldadzpays.com##DIV[class="banner-125-125"]
+
+worldadzpays.com##DIV[id="simplemodal-container"][class="simplemodal-container"]
+worldadzpays.com##DIV[id="simplemodal-overlay"][class="simplemodal-overlay"]
+www.worldadzpays.com##IFRAME[id="f1"]
+www.worldadzpays.com##IFRAME[id="f1"]
+
+
+
+
+
+www.worldadzpays.com##P
+madvertisingpro.com##DIV[id="cboxOverlay"]
+madvertisingpro.com##DIV[class="bannermain"]
+madvertisingpro.com##DIV[class="headerbg"]
+madvertisingpro.com##DIV[class="joinnowbg"]
+madvertisingpro.com##DIV[class="lightbluebg"]
+
+www.familyfuncycler.com##DIV[class="header"]
+www.familyfuncycler.com##DIV[class="footer"]
+www.familyfuncycler.com##DIV[style="position:absolute;top:120px; right:15%; z-index: 100;"]
+formyip.com##A[href="https://dealyogi.com"]
+formyip.com##CENTER
+thewealthdynasty.com##A[href="http://thewealthdynasty.com/members/content/testimony"]
+www.cyclerevshare.biz##DIV[id="navbar"][class="navbar navbar-default"]
+www.cyclerevshare.biz##SECTION[id="main-slider"][class="carousel"]
+www.cyclerevshare.biz##HEADER[id="header"]
+www.trafficncash.com##DIV[class="banner-468-rotator"]
+www.trafficncash.com##DIV[class="banner-bot-bg"]
+www.trafficncash.com##DIV[class="banner-bot-bg"]
+
+
+
+www.trafficncash.com##IMG[src="https://www.trafficncash.com/themes/TrafficNCash/images/header.png"]
+www.trafficncash.com##DIV[class="banner125"]
+www.trafficncash.com##DIV[class="sitestes2"]
+www.trafficncash.com##DIV[class="textaddboxin"]
+www.trafficncash.com##DIV[class="sitestes"]
+
+
+
+www.trafficncash.com##DIV[class="bannerbg2"]
+www.trafficncash.com##DIV[class="bannerbg"]
+www.trafficncash.com##IMG[src="https://www.trafficncash.com/themes/TrafficNCash/images/footer.jpg"]
+www.trafficncash.com##DIV[class="footer"]
+www.trafficncash.com##DIV[class="fixed_btm"][id="sitelock_shield_logo"]
+
+www.ultimaterevshare.com##HEADER[id="header_wrapper"][class="scroll-to-fixed-fixed"]
+www.dailyadpays.com##DIV[class="headerbg"]
+
+www.dailyadpays.com##DIV[class="banner-468-rotator"]
+www.dailyadpays.com##DIV[class="banner-bot-bg"]
+www.dailyadpays.com##DIV[class="banner-bot-bg"]
+
+
+
+www.dailyadpays.com##DIV[class="banner125"]
+www.dailyadpays.com##DIV[class="sitestes2"]
+www.trafficncash.com##DIV[class="textaddboxin"]
+www.dailyadpays.com##DIV[class="sitestes"]
+
+
+
+www.dailyadpays.com##DIV[class="bannerbg2"]
+www.dailyadpays.com##DIV[class="bannerbg"]
+www.dailyadpays.com##IMG[src="https://www.trafficncash.com/themes/TrafficNCash/images/footer.jpg"]
+www.dailyadpays.com##DIV[class="footer"]
+www.dailyadpays.com##DIV[class="fixed_btm"][id="sitelock_shield_logo"]
+globaltrafficads.com##DIV[class="header"]
+globaltrafficads.com##DIV[class="fixedfooterbanners"]
+globaltrafficads.com##IMG[src="/imgprox.php?image=https://www.admediaprofits.com/banners/pre728.gif"]
+mytrafficpaycheck.com##IFRAME[src="https://mytrafficpaycheck.com"]
+mytrafficpaycheck.com##IMG[src="https://mytrafficpaycheck.com/templates/default//images/header.png"]
+mytrafficpaycheck.com##IMG[src="https://mytrafficpaycheck.com/templates/default//images/header.png"]
+www.startrevshare.com##DIV[class="banner-bot-bg"]
