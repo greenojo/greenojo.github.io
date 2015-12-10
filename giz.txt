@@ -1,17 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 1.0
 ! Title: GreenList
-! Last modified: 21 Nov 2015 13:20 UTC
-! Expires: 4 days (update frequency)
-! Homepage: https://
-! Licence: https://
-!
-! Please report any unblocked adverts or problems
-! in the forums (https://forums.lanik.us/)
-! or via e-mail (@gmail.com).
-!
-!-----------------------General advert blocking filters-----------------------!
-! *** easylist:easylist/easylist_general_block.txt ***
 www.moneymakergroup.com##[id="side_col"]
 www.moneymakergroup.com##DIV[id="banner_content"]
 www.moneymakergroup.com##CENTER
